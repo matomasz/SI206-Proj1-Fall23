@@ -62,9 +62,9 @@ def split_by_hire_year(employees, hire_year):
 
         tuple: A tuple containing two dictionaries:
 
-        1. A dictionary with employees hired before 1964.
+        1. A dictionary with employees hired before 'hire_year'.
 
-        2. A dictionary with employees hired in 1964 or later.
+        2. A dictionary with employees hired in 'hire_year'or later.
 
 
 
