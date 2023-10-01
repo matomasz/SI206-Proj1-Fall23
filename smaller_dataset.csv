@@ -7,5 +7,5 @@ employee_id,gender,race,hire_year
 6,Female,White,1953
 7,Female,Black,1964
 8,Male,White,1957
-9,Other,Female,1967
-10,Other,Male,1952
+9,Female,Other,1967
+10,Male,Other,1952
