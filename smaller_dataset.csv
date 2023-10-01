@@ -1,0 +1,11 @@
+employee_id,gender,race,hire_year
+1,Male,White,1970
+2,Male,Black,1956
+3,Male,Black,1951
+4,Female,White,1957
+5,Female,Black,1970
+6,Female,White,1953
+7,Female,Black,1964
+8,Male,White,1957
+9,Other,Female,1967
+10,Other,Male,1952
